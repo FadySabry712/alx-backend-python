@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-""" type annotated random variables """
+'''
+type-annotated variables
+'''
 
 
 a: int = 1
